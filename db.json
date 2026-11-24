@@ -1,0 +1,261 @@
+
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "MacBook Pro M4",
+      "category": "Laptops",
+      "brand": "Apple",
+      "price": 1999,
+      "oldPrice": 2199,
+      "rating": 4.9,
+      "description": "Powerful performance for professionals.",
+      "badge": "Best Seller",
+      "isFeatured": true,
+      "isNewArrival": false,
+      "image": "https://persianapple.ir/UpFileEditor/490abab2-3a98-4068-803c-3791ad1c7388.png"
+    },
+    {
+      "id": 2,
+      "title": "MacBook Air M3",
+      "category": "Laptops",
+      "brand": "Apple",
+      "price": 1299,
+      "oldPrice": 1499,
+      "rating": 4.8,
+      "isFeatured": false,
+      "isNewArrival": false,
+      "image": "https://www.technolife.com/image/color_image_TLP-41083_8ac8fc0f-bada-4405-ba93-d3563da87723.png"
+    },
+    {
+      "id": 9,
+      "title": "Lenovo Legion 5",
+      "category": "Laptops",
+      "brand": "Lenovo",
+      "price": 1299,
+      "oldPrice": 1499,
+      "rating": 4.7,
+      "image": "https://www.technolife.com/image/gallery-0-TLP-3816_7439019f-82cd-46a2-9945-94fdccc7849a.png"
+    },
+    {
+      "id": 13,
+      "title": "ASUS TUF Gaming",
+      "category": "Laptops",
+      "brand": "Asus",
+      "price": 1099,
+      "oldPrice": 1299,
+      "rating": 4.6,
+      "image": "https://www.technolife.com/image/gallery-0-TLP-123205_cc2d3901-ce03-44eb-b145-f59f380c82c4.png"
+    },
+    {
+      "id": 14,
+      "title": "iPhone 17 Pro",
+      "category": "Smartphones",
+      "brand": "Apple",
+      "price": 1099,
+      "oldPrice": 1199,
+      "rating": 4.9,
+      "image": "https://persianapple.ir/UpImage/cb6e1315-1074-47d6-9d6f-c6a330e67c34.jpg",
+      "description": "Experience the next generation of technology.",
+      "badge": "New Arrival",
+      "isFeatured": true,
+      "isNewArrival": false
+    },
+    {
+      "id": 16,
+      "title": "Samsung Galaxy S25 Ultra",
+      "category": "Smartphones",
+      "brand": "Samsung",
+      "price": 1299,
+      "oldPrice": 1399,
+      "rating": 4.9,
+      "image": "https://www.technolife.com/image/small_product-TLP-73329_15f8a503-1a18-4ea5-8cd5-a124772b32eb.png",
+      "description": "Ultimate smartphone experience.",
+      "badge": "Best Seller",
+      "isNewArrival": false
+    },
+    {
+      "id": 17,
+      "title": "Samsung Galaxy S25",
+      "category": "Smartphones",
+      "brand": "Samsung",
+      "price": 899,
+      "oldPrice": 999,
+      "rating": 4.7,
+      "image": "https://api-rayashop.freetls.fastly.net/media/catalog/product/cache/4e49ac3a70c0b98a165f3fa6633ffee1/p/5/p597yyf8ocnefexv72us_swrlhp61giuo8jcs.jpg"
+    },
+    {
+      "id": 20,
+      "title": "Xiaomi Redmi Note 14",
+      "category": "Smartphones",
+      "brand": "Xiaomi",
+      "price": 299,
+      "oldPrice": 349,
+      "rating": 4.5,
+      "image": "https://www.technolife.com/image/small_product-TLP-76416_9dc90e49-c4f2-4cc9-983f-80bb153d81c3.png"
+    },
+    {
+      "id": 28,
+      "title": "Sony WH-1000XM6",
+      "category": "Headphones",
+      "brand": "Sony",
+      "price": 399,
+      "oldPrice": 449,
+      "rating": 4.9,
+      "image": "https://hilatel.ir/uploads/products/img-2025-12-06-6934858a4a9e8.webp",
+      "badge": "HOT",
+      "isNewArrival": true
+    },
+    {
+      "id": 29,
+      "title": "AirPods Pro 2",
+      "category": "Headphones",
+      "brand": "Apple",
+      "price": 249,
+      "oldPrice": 279,
+      "rating": 4.8,
+      "image": "https://www.technolife.com/image/color_image_TLP-8120_ffffff_ba15331c-0609-462a-9bb8-d58abc5ac9c7.png",
+      "description": "Immersive sound with active noise cancellation.",
+      "badge": "Popular",
+      "isFeatured": true
+    },
+    {
+      "id": 37,
+      "title": "AirPods 4",
+      "category": "Headphones",
+      "brand": "Apple",
+      "price": 179,
+      "oldPrice": 199,
+      "rating": 4.7,
+      "image": "https://media.farnaa.com/media/2187058cff324255a230d97b93bf582c.webp"
+    },
+    {
+      "id": 40,
+      "title": "Apple Watch Ultra 2",
+      "category": "Smartwatches",
+      "brand": "Apple",
+      "price": 799,
+      "oldPrice": 899,
+      "rating": 4.9,
+      "image": "https://persianapple.ir/UpImage/d67e1eb9-6d87-412c-be4b-95c309d34d11.jpg",
+      "description": "Advanced fitness and smart features.",
+      "badge": "Limited",
+      "isFeatured": true
+    },
+    {
+      "id": 42,
+      "title": "Samsung Galaxy Watch 7",
+      "category": "Smartwatches",
+      "brand": "Samsung",
+      "price": 299,
+      "oldPrice": 349,
+      "rating": 4.7,
+      "image": "https://www.technolife.com/image/color_image_TLP-51150_9cbd78_5172e72f-d44d-4bb3-8895-ea77c028ede2.png",
+      "description": "Your everyday smart companion.",
+      "badge": "New Arrival",
+      "isFeatured": true
+    },
+    {
+      "id": 49,
+      "title": "Samsung Galaxy Fit 3",
+      "category": "Smartwatches",
+      "brand": "Samsung",
+      "price": 69,
+      "oldPrice": 89,
+      "rating": 4.5,
+      "image": "https://www.technolife.com/image/gallery-1-TLP-36136_d6e37bac-a7df-49d8-bc36-b6e7c4dfcc36.png"
+    },
+    {
+      "id": 51,
+      "title": "Xiaomi 17 Ultra",
+      "category": "Smartphones",
+      "brand": "Xiaomi",
+      "price": 1199,
+      "oldPrice": 1299,
+      "rating": 4.9,
+      "isNewArrival": true,
+       "image": "https://www.technolife.com/image/color_image_TLP-599480_ffffff_4f7f95c3-a738-4917-a143-3f7ac17ee84d.png",
+      "description": "Xiaomi 17 Ultra flagship smartphone."
+    },
+    {
+      "id": 52,
+      "title": "Apple AirPods 5",
+      "category": "Headphones",
+      "brand": "Apple",
+      "price": 249,
+      "oldPrice": 279,
+      "rating": 4.8,
+      "isNewArrival": true,
+      "image": "https://www.technolife.com/image/color_image_TLP-594747_f61b99b3-d787-4053-9ea8-c8fb1a729b1c.png",
+      "description": "Apple wireless earbuds."
+    },
+    {
+      "id": 53,
+      "title": "Samsung Galaxy Watch9",
+      "category": "Smartwatches",
+      "brand": "Samsung",
+      "price": 399,
+      "oldPrice": 449,
+      "rating": 4.9,
+      "isNewArrival": true,
+      "image": "https://mobomoon.ir/wp-content/uploads/2026/11/Galaxy-Watch9-44mm-150x150.png",
+      "description": "Samsung Galaxy smartwatch."
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "number": "01",
+      "title": "Laptops",
+      "description": "Powerful laptops for work and gaming.",
+      "icon": "Laptop"
+    },
+    {
+      "id": 2,
+      "number": "02",
+      "title": "Smartphones",
+      "description": "Explore the latest smartphones.",
+      "icon": "Smartphone"
+    },
+    {
+      "id": 3,
+      "number": "03",
+      "title": "Headphones",
+      "description": "Premium sound and wireless audio.",
+      "icon": "Headphones"
+    },
+    {
+      "id": 4,
+      "number": "04",
+      "title": "Smartwatches",
+      "description": "Smart technology for everyday life.",
+      "icon": "Watch"
+    }
+  ],
+  "shopCategories": [
+    {
+      "id": 1,
+      "name": "Laptops",
+      "description": "Powerful laptops for work, gaming and creativity.",
+      "icon": "Laptop"
+    },
+    {
+      "id": 2,
+      "name": "Smartphones",
+      "description": "Discover the latest smartphones and mobile devices.",
+      "icon": "Smartphone"
+    },
+    {
+      "id": 3,
+      "name": "Headphones",
+      "description": "Enjoy high-quality sound with premium headphones.",
+      "icon": "Headphones"
+    },
+    {
+      "id": 4,
+      "name": "Smartwatches",
+      "description": "Smart watches designed for your everyday life.",
+      "icon": "Watch"
+    }
+  ]
+}
